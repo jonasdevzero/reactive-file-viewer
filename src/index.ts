@@ -1,1 +1,1 @@
-export * from "./components/ReactiveFileViewer";
+export * from './components/ReactiveFileViewer'
